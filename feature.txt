@@ -1,0 +1,1 @@
+hello in this lab i learned about HTML pages and how to add paragraghs and headlines lastly, we created a repository and pushed all the files
